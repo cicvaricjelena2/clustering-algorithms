@@ -1,4 +1,4 @@
-# clustering-algorithms: C-Means and Maximum Likelihood Estimation
+# Clustering algorithms: C-Means and Maximum Likelihood Estimation
 
 Project Overview
 
